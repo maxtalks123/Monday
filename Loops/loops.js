@@ -47,3 +47,8 @@ while (startNumber <= 132) {
   console.log(startNumber);
   startNumber++;
 }
+
+const countries = ["mozambique", "england", "USA", "madagascar", "nauru"];
+countries.forEach(function (countries) {
+  console.log(countries, function;
+});
